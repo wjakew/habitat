@@ -1,11 +1,15 @@
 # Habitat
 
 A simple, elegant habit tracking app built with Flutter.
+---
 
-![Flutter Version](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![src1](/readme_resources/src1.png)
+
+
 
 ## Overview
+
+![src2](/readme_resources/src2.png)
 
 Habitat helps you build and maintain good habits through daily, weekly, or monthly tracking. With a clean, intuitive interface and powerful tracking features, Habitat makes it easy to visualize your progress and stay motivated.
 
